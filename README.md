@@ -29,4 +29,4 @@ This app was developed as part of the **Google Gemma 3n Impact Challenge**, show
 
 ---
 
-💡 Made by Taimour Nazar
+🌐 Website: https://ai1.onl
